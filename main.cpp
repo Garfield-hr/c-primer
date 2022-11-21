@@ -21,6 +21,6 @@ void printBigger(vector<string> &s, int len) {
 
 int main() {
     vector<string> s = {"prog3", "proge", "proga", "vsc", "std", "notThis"};
-    printBigger(s, 3);
+    printBigger(s, 2);
     return 0;
 }
